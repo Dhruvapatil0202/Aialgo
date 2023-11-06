@@ -1,0 +1,59 @@
+Introduction
+
+Blockchain technology has witnessed rapid growth and adoption across various industries. Its decentralized and secure nature makes it an ideal solution for a wide range of applications. In this survey report, we explore different types of blockchains and their use cases.
+
+Objective
+
+The primary objective of this survey is to provide an overview of the three main types of blockchains: Public, Private, and Consortium (also known as Federated) blockchains, and to highlight their respective characteristics and applications.
+
+Types of Blockchains
+
+Public Blockchain
+
+Characteristics
+Open and permissionless: Anyone can participate and validate transactions.
+Trustless: No need for a trusted intermediary.
+Security: High level of security due to widespread participation.
+Use Cases
+Cryptocurrencies: Bitcoin, Ethereum.
+Decentralized applications (DApps).
+Transparent voting systems.
+Private Blockchain
+
+Characteristics
+Restricted access: Access and participation are controlled by a single organization or consortium.
+Permissioned: Only authorized entities can validate transactions.
+Scalability: Typically faster and more scalable compared to public blockchains.
+Use Cases
+Supply chain management.
+Interbank transactions.
+Sensitive data sharing in healthcare.
+Consortium Blockchain (Federated Blockchain)
+
+Characteristics
+Shared control: Several organizations collaborate to operate the network.
+Permissioned: Access and participation are restricted but involve multiple trusted entities.
+Efficiency: Offers improved efficiency and trust compared to traditional systems.
+Use Cases
+Cross-industry collaborations.
+Banking and finance consortiums.
+Joint research and development projects.
+Survey Findings
+
+Public blockchains, such as Bitcoin and Ethereum, remain popular for decentralized applications, transparent voting, and cryptocurrencies.
+
+Private blockchains are favored in corporate settings where organizations require more control over who can participate and validate transactions.
+
+Consortium blockchains are gaining traction for cross-industry collaborations, joint projects, and building trust between multiple stakeholders.
+
+Conclusion
+
+The blockchain landscape is diverse, offering various types to cater to different needs and use cases. The choice of the blockchain type depends on factors like decentralization, trust, scalability, and the specific requirements of the application.
+
+As the technology continues to evolve, understanding these blockchain types is crucial for businesses and organizations looking to leverage the advantages of distributed ledger technology.
+
+Recommendations
+
+Organizations should carefully consider the type of blockchain that aligns with their goals, whether they require decentralization and transparency or a more controlled and scalable solution.
+
+Future research should focus on the development and adoption of hybrid blockchains, combining features of public, private, and consortium blockchains to address a broader range of applications.
